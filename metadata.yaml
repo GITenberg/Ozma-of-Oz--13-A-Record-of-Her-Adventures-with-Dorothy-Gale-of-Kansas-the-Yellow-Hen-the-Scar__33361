@@ -1,0 +1,67 @@
+_repo: Ozma-of-Oz--13-A-Record-of-Her-Adventures-with-Dorothy-Gale-of-Kansas-the-Yellow-Hen-the-Scar__33361
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+covers:
+- cover_type: archival
+  image_path: 33361-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Fitzgerald, Hugh
+    - Metcalf, Suzanne
+    - Fitzgerald, Capt. Hugh
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    - Cooke, John Estes
+    - Baum, Lyman Frank
+    - Akers, Floyd
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: Dorothy Gale, the heroine of The Wonderful Wizard of Oz, is on a sea
+  journey when a great storm destroys the ship she is sailing home to her uncle on.
+  Dorothy manages to cling to a chicken coup and she and the hen Billina manage to
+  wash up on the magic shore of Ev. After a series of adventures Dorothy and Billina
+  are taken poisoner by the evil Nome King. Ozma of Oz rushes to her rescue, but it
+  may already be too late.
+gutenberg_issued: '2010-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33361'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gale, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Physicians -- Juvenile fiction'
+- !lcsh 'Hens -- Juvenile fiction'
+- !lcsh 'Steamboats -- Juvenile fiction'
+- !lcsh 'Cowardly Lion (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Princess Ozma (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Tin Woodman (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Scarecrow (Fictitious character from Baum) -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+title: "Ozma of Oz\r\nA Record of Her Adventures with Dorothy Gale of Kansas, the\
+  \ Yellow Hen, the Scarecrow, the Tin Woodman, Tiktok, the Cowardly Lion, and the\
+  \ Hungry Tiger; Besides Other Good People too Numerous to Mention Faithfully Recorded\
+  \ Herein"
+url: http://www.gutenberg.org/ebooks/33361
